@@ -1,6 +1,8 @@
 setwd("/Users/tiahunter/Documents/DEOHS/Malaria/Malaria Data")
 #getwd()
 
+#Test commit
+
 library(readstata13)
 library(ggplot2)
 #clear plots
